@@ -43,9 +43,11 @@ export default function Lista() {
 
         <h3 className="text-[#d4af37] font-bold"> Stand 2: Mini Donas</h3>
         <div className="flex gap-3 items-start">
-        <GiDonut className="text-[#d4af37] mt-1" size={20} />
-        <p>Mini donas glaseadas y deliciosas para todos los gustos.</p>
+        <div className="text-[#d4af37] mt-1">
+          <GiDonut size={20} />
         </div>
+        <p>Mini donas glaseadas y deliciosas para todos los gustos.</p>
+      </div>
       <hr className="border-1 border-white/10 my-4" />
         <div className="flex gap-3 items-start">
           <PartyPopper className="text-[#d4af37] mt-1" size={20} />

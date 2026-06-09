@@ -80,7 +80,9 @@ useEffect(() => {
            <h2 className="text-4xl text-gray-800 font-weight mt-10 underline underline-offset-4  decoration-yellow-500">
               Bienvenidos
             </h2>
-            <FaArrowDown className="mx-auto mt-10 text-yellow-500 animate-bounce" size={50} />
+            <div className="mx-auto mt-10 text-yellow-500 animate-bounce">
+            <FaArrowDown size={50} />
+          </div>
            
         </div>
 
