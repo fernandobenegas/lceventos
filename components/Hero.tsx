@@ -4,9 +4,6 @@ import { FaArrowDown } from "react-icons/fa";
 import Image from "next/image";
 import { useEffect, useState } from "react";
 
-import { Instagram } from "lucide-react";
-
-
 
 export default function Hero() {
 
@@ -43,7 +40,7 @@ useEffect(() => {
   <div className="relative w-52 h-52 md:w-62 md:h-62 rounded-full overflow-hidden border border-white/10 shadow-lg">
 
     <Image
-      src="/LOGO.jpeg"
+      src="/logo.jpeg"
       alt="Logo"
       fill
       className="object-cover"

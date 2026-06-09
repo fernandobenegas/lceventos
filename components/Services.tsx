@@ -60,7 +60,7 @@ export default function Products() {
 
         {/* TITLE */}
         <h2 className="text-4xl bg-black/10 rounded-lg text-gray-800 font-semibold text-center mb-14  ">
-          Tambien contamos estas delicias para acompañar tu desayuno o merienda ☕
+          Tambien contamos con estas delicias para acompañar tu desayuno o merienda ☕
         </h2>
 
         {/* GRID */}
