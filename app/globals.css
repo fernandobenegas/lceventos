@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 :root {
-  --background: #0b0705; /* marrón muy oscuro base */
+  --background: #000000; /* marrón muy oscuro base */
   --foreground: #f3e7d3;
 }
 
@@ -23,8 +23,7 @@ body {
   /* 🎯 Fondo profesional marrón-negro */
   background: radial-gradient(
       circle at top,
-      #2b1d14 0%,
-      #120b08 45%,
-      #050302 100%
+      #0000
+      
   );
 }

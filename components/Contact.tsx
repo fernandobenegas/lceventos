@@ -48,10 +48,10 @@ export default function Contact() {
   return (
     <section
       id="contacto"
-      className="bg-[#0b0b0b] text-[#f3e7d3] py-24 px-6"
+      className="text-[#f3e7d3] py-24 px-6"
     >
       {/* TITLE */}
-      <h2 className="text-4xl italic text-center mb-14 tracking-wide  underline underline-offset-4 decoration-yellow-500">
+      <h2 className="text-4xl italic text-center mb-10 tracking-wide text-gray-800 underline underline-offset-4 decoration-yellow-500">
         Dejanos tu opinión para mejorar cada dia
       </h2>
 

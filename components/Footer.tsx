@@ -4,16 +4,16 @@ export default function Footer() {
 <div className="h-[2px] w-full bg-gradient-to-r from-pink-500 via-purple-500 to-cyan-500 shadow-[0_0_20px_#ff00ff]"></div>
   return (
     <SectionWrapper>
-    <footer className="bg-black text-gray-400 py-16 px-8 border-t border-gray-800">
+    <footer className="bg-[#141414] text-gray-400 py-16 px-8 border-t border-gray-800">
       <div className="max-w-6xl mx-auto grid md:grid-cols-3 gap-12">
 
         {/* Marca */}
         <div>
           <span className="text-[#c9b6a] font-serif italic underline drop-shadow-[0_0_10px_#ff00ff]">
-  Ella Jura
-</span>
+  L&C -Eventos
+        </span>
           <p>
-            Ventas y produccion de medialunas y biscochos.
+            servicio de eventos premium.
             
           </p>
         </div>

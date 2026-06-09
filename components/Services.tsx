@@ -56,11 +56,11 @@ const cardVariants = {
 export default function Products() {
   return (
     <SectionWrapper>
-      <section className="py-24 px-6 bg-[#0b0b0b] text-[#f3e7d3]">
+      <section className="py-24 px-6  text-[#f3e7d3]">
 
         {/* TITLE */}
-        <h2 className="text-4xl italic text-center mb-14 tracking-wide underline underline-offset-4 decoration-yellow-500">
-          Nuestros Productos
+        <h2 className="text-4xl bg-black/10 rounded-lg text-gray-800 font-semibold text-center mb-14  ">
+          Tambien contamos estas delicias para acompañar tu desayuno o merienda ☕
         </h2>
 
         {/* GRID */}
