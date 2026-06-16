@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Mini Donitas",
+    "description": "Mini donitas glaseadas ",
+    "image": "/uploads/1781569072878-hxjv43u5bft.jpeg",
+    "icon": "Cake"
+
+
+    
+  },
+  {
+    "id": 2,
+    "name": "Mini Donitas con dulce de leche",
+    "description": "Mini donitas glaseadas con dulce de  leche ",
+    "image": "/uploads/donitas2.jpeg",
+    "icon": "Donut"
+
+  },
+   {
+    "id": 3,
+    "name": "Stand de Gomitas",
+    "description": "Gomitas de diferentes sabores y diseños ",
+    "image": "/uploads/gomas.jpg",
+    "icon": "CandyCane"
+
+  }
+  
+]
