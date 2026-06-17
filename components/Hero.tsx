@@ -74,9 +74,14 @@ useEffect(() => {
           </span>
             <span>🍭</span>
           </h2>
+
            <h2 className="text-4xl text-gray-800 font-weight mt-10 underline underline-offset-4  decoration-yellow-500">
               Bienvenidos
             </h2>
+            {/* Frase de tu proyecto */}
+            <p className="mt-4 text-lg sm:text-xl text-gray-600 font-medium max-w-2xl px-4">
+              Endulzando los mejores momentos de tu evento con detalles únicos.
+            </p>
             <div className="flex justify-center mt-10 text-yellow-500 animate-bounce">
             <FaArrowDown size={50} />
           </div>

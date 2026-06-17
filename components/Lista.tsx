@@ -14,8 +14,8 @@ import {
 export default function Lista() {
   return (
     <section  className=" relative  max-w-4xl mx-auto py-10 px-4  ] bg-no-repeat bg-center bg-cover">
-          <h2 className="text-3xl font-bold text-center text-gray-800 mb-4 underline underline-offset-8 decoration-[#d4af37]">
-            A un rincón lleno de magia y sabor ✨
+          <h2 className="text-3xl font-semibold text-center text-gray-800 mb-4 underline underline-offset-8 decoration-[#d4af37]">
+            Un rincon lleno de magia y sabor ✨
           </h2>
           
 
