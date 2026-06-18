@@ -79,12 +79,17 @@ useEffect(() => {
               Bienvenidos
             </h2>
             {/* Frase de tu proyecto */}
-            <p className="mt-4 text-lg sm:text-xl text-gray-600 font-medium max-w-2xl px-4">
-              Endulzando los mejores momentos de tu evento con detalles únicos.
-            </p>
-            <div className="flex justify-center mt-10 text-yellow-500 animate-bounce">
+            
+            <p className="mt-4 mb-12 text-lg sm:text-xl text-gray-700 font-semibold max-w-2xl px-4">       
+              Diseñamos una experiencia dulce y divertida para tu evento,
+              combinando gomitas, color y atención personalizada en un stand
+              que se convierte en uno de los espacios favoritos de grandes y chicos.
+              <div className="flex justify-center mt-10 text-yellow-500 animate-bounce">
             <FaArrowDown size={50} />
           </div>
+          
+            </p>
+            
            
         </div>
 

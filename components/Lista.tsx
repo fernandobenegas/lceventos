@@ -14,16 +14,10 @@ import {
 export default function Lista() {
   return (
     <section  className=" relative  max-w-4xl mx-auto py-10 px-4  ] bg-no-repeat bg-center bg-cover">
-          <h2 className="text-3xl font-semibold text-center text-gray-800 mb-4 underline underline-offset-8 decoration-[#d4af37]">
+          <h2 className="text-3xl font-semibold text-center text-violet-800 mb-4 underline underline-offset-8 decoration-[#d4af37]">
             Un rincon lleno de magia y sabor ✨
           </h2>
-          
 
-    <p className="text-center text-2xl text-gray-800 max-w-xl mx-auto mb-8 mt-8 font-semibold">
-      Diseñamos una experiencia dulce y divertida para tu evento,
-      combinando gomitas, color y atención personalizada en un stand
-      que se convierte en uno de los espacios favoritos de grandes y chicos.
-    </p>
      
       {/* 📱 PRICE CARD MOBILE */}
       <div className=" bg-black/60 backdrop-blur-xl text-xl border border-white/10 rounded-2xl p-6 shadow-[0_0_30px_rgba(212,175,55,0.15)]">
