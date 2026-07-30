@@ -54,7 +54,7 @@ useEffect(() => {
 <div className="absolute top-6 right-6 z-20 flex flex-col items-end gap-2">
 
   {/* Fecha y hora */}
-  <div className="text-sm text-[#f3e7d3]/70 font-bold">
+  <div className="text-sm mb-6 text-[#f3e7d3]/70 font-bold">
     {time}
   </div>
 
